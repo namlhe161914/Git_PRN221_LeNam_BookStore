@@ -1,0 +1,120 @@
+﻿@page
+@model PRN221_LeNam_BookStore.Pages.Books.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<form asp-page="./Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by name:
+            <input type="text" name="SearchString" value="@Model.CurrentFilter" />
+            <input type="submit" value="Search" class="btn btn-primary" />
+            <a asp-page="./Index">Back to full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+
+                <a asp-page="./Index" asp-route-sortOrder="@Model.NameSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.BookHe161914[0].Bname)
+                </a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookHe161914[0].Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookHe161914[0].Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookHe161914[0].Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookHe161914[0].Describe)
+            </th>
+            <th>
+
+                <a asp-page="./Index" asp-route-sortOrder="@Model.PriceSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.BookHe161914[0].Price)
+                </a>
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.BookHe161914[0].CidNavigation) *@
+                Category
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.BookHe161914[0].PidNavigation) *@
+                Publisher
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.BookHe161914s)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Bname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    <img src="@Html.DisplayFor(modelItem => item.Image)" width="150px" height="200px"></img>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                    @Html.DisplayFor(modelItem => item.Describe)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryHe161914.Cname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PublisherHe161914.Pname)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Bid">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Bid">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Bid">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@{
+    var prevDisabled = !Model.BookHe161914s.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.BookHe161914s.HasNextPage ? "disabled" : "";
+}
+
+<a asp-page="./Index"
+   asp-route-sortOrder="@Model.CurrentSort"
+   asp-route-pageIndex="@(Model.BookHe161914s.PageIndex - 1)"
+   asp-route-currentFilter="@Model.CurrentFilter" class="btn btn-primary @prevDisabled">
+    Previous
+</a>
+<a asp-page="./Index"
+   asp-route-sortOrder="@Model.CurrentSort"
+   asp-route-pageIndex="@(Model.BookHe161914s.PageIndex + 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   class="btn btn-primary @nextDisabled">
+    Next
+</a>

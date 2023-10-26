@@ -1,0 +1,108 @@
+﻿@page
+@model PRN221_LeNam_BookStore.Pages.Books.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>BookHe161914</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BookHe161914.Cid" class="control-label">Category</label>
+                <select asp-for="BookHe161914.Cid" class ="form-control" asp-items="ViewBag.Cid"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookHe161914.Bname" class="control-label"></label>
+                <input asp-for="BookHe161914.Bname" class="form-control" />
+                <span asp-validation-for="BookHe161914.Bname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookHe161914.Author" class="control-label"></label>
+                <input asp-for="BookHe161914.Author" class="form-control" />
+                <span asp-validation-for="BookHe161914.Author" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookHe161914.Image" class="control-label"></label>
+@*                 <input asp-for="BookHe161914.Image" class="form-control" />
+                <span asp-validation-for="BookHe161914.Image" class="text-danger"></span> *@
+
+                <input name="file" type="file" id="file" accept=".jpeg,.png,.jpg" onchange="checkFile(this)" class="form-control">
+                <br />
+
+                <script>
+
+                    function checkFile(input) {
+                        if (input.files && input.files[0]) {
+                            var file = input.files[0];
+                            var fileType = file.name.substring(file.name.lastIndexOf(".") + 1).toLowerCase();
+                            if (file.size > 20000000) {
+                                alert("File size must be less than 20MB");
+                                input.value = "";
+                            } else if (fileType !== "jpeg" && fileType !== "png" && fileType !== "jpg") {
+                                alert("File type must be .jpeg, .png, or .jpg");
+                                input.value = "";
+                            }
+                        }
+                    }
+                </script>
+
+@*                 <input asp-for="BookHe161914.Image" type="text" id="Image" class="form-control form-control-lg"
+                       name="Image"/> *@
+                <img id="preview" width="300px" height="190px">
+            </div>
+            <div class="form-group">
+                <label asp-for="BookHe161914.Pid" class="control-label">Produce</label>
+                <select asp-for="BookHe161914.Pid" class ="form-control" asp-items="ViewBag.Pid"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookHe161914.Quantity" class="control-label"></label>
+                <input asp-for="BookHe161914.Quantity" class="form-control" />
+                <span asp-validation-for="BookHe161914.Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookHe161914.Describe" class="control-label"></label>
+                <input asp-for="BookHe161914.Describe" class="form-control" />
+                <span asp-validation-for="BookHe161914.Describe" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookHe161914.Price" class="control-label"></label>
+                <input asp-for="BookHe161914.Price" class="form-control" />
+                <span asp-validation-for="BookHe161914.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+
+<script>
+    const fileInput = document.getElementById('file');
+    const preview = document.getElementById('preview');
+    fileInput.addEventListener('change', function () {
+        const file = fileInput.files[0];
+        const reader = new FileReader();
+        reader.addEventListener('load', function () {
+            preview.src = reader.result;
+        }, false);
+        if (file) {
+            reader.readAsDataURL(file);
+        }
+    });
+</script>
