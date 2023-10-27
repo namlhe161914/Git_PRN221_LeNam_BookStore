@@ -11215,11 +11215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore.csproj",
+      "projectUniqueName": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore.csproj",
       "projectName": "PRN221_LeNam_BookStore",
-      "projectPath": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore.csproj",
+      "projectPath": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore.csproj",
       "packagesPath": "C:\\Users\\lenam\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\obj\\",
+      "outputPath": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenam\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,50 +32,64 @@ namespace PRN221_LeNam_BookStore.Pages.Books
 
         public IList<BookHe161914> BookHe161914 { get;set; } = default!;
 
-        public async Task OnGetAsync(string sortOrder, string currentFilter, string searchString, int? pageIndex)
+        public async Task<IActionResult> OnGetAsync(string sortOrder, string currentFilter, string searchString, int? pageIndex)
         {
 
-            CurrentSort = sortOrder;
-            NameSort = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
-            PriceSort = sortOrder == "price" ? "price_desc" : "";
-
-            if (searchString != null)
+            if (HttpContext.Session.GetString("account") != null)
             {
-                pageIndex = 1;
+                return Redirect("~/");
+            }
+            else if (HttpContext.Session.GetString("account2") == null)
+            {
+                return Redirect("~/Login");
             }
             else
             {
-                searchString = currentFilter;
+                CurrentSort = sortOrder;
+                NameSort = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
+                PriceSort = sortOrder == "price" ? "price_desc" : "";
+
+                if (searchString != null)
+                {
+                    pageIndex = 1;
+                }
+                else
+                {
+                    searchString = currentFilter;
+                }
+
+                CurrentFilter = searchString;
+
+                IQueryable<BookHe161914> bookIQ = from b in _context.BookHe161914s
+                                                  select b;
+                if (!String.IsNullOrEmpty(searchString))
+                {
+                    bookIQ = bookIQ.Include(b => b.CategoryHe161914).Include(b => b.PublisherHe161914).Where(s => s.Bname.Contains(searchString));
+                }
+                else
+                {
+                    bookIQ = bookIQ.Include(b => b.CategoryHe161914).Include(b => b.PublisherHe161914);
+                }
+                switch (sortOrder)
+                {
+                    case "name_desc":
+                        bookIQ = bookIQ.OrderByDescending(s => s.Bname);
+                        break;
+
+                    case "price_desc":
+                        bookIQ = bookIQ.OrderByDescending(s => s.Price);
+                        break;
+                    default:
+                        bookIQ = bookIQ.OrderBy(s => s.Bname);
+                        break;
+                }
+
+                var pageSize = Configuration.GetValue("PageSize", 4);
+                BookHe161914s = await PaginatedList<BookHe161914>.CreateAsync(bookIQ.AsNoTracking(), pageIndex ?? 1, pageSize);
+
+                return Page();
             }
 
-            CurrentFilter = searchString;
-
-            IQueryable<BookHe161914> bookIQ = from b in _context.BookHe161914s
-                                            select b;
-            if (!String.IsNullOrEmpty(searchString))
-            {
-                bookIQ = bookIQ.Include(b => b.CategoryHe161914).Include(b => b.PublisherHe161914).Where(s => s.Bname.Contains(searchString));
-            }
-            else
-            {
-                bookIQ = bookIQ.Include(b => b.CategoryHe161914).Include(b => b.PublisherHe161914);
-            }
-            switch (sortOrder)
-            {
-                case "name_desc":
-                    bookIQ = bookIQ.OrderByDescending(s => s.Bname);
-                    break;
-
-                case "price_desc":
-                    bookIQ =  bookIQ.OrderByDescending(s => s.Price);
-                    break;
-                default:
-                    bookIQ = bookIQ.OrderBy(s => s.Bname);
-                    break;
-            }
-
-            var pageSize = Configuration.GetValue("PageSize", 4);
-            BookHe161914s = await PaginatedList<BookHe161914>.CreateAsync(bookIQ.AsNoTracking(), pageIndex ?? 1, pageSize);
 
 
         }

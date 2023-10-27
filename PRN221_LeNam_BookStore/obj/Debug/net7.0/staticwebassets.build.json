@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pu71XNPVWroDhK0jJEq+NgQUdm4kntfUZb9xLGqgQ+E=",
+  "Hash": "lGJymogKa9aAwLjBoVcJ2CE27lldDXABRXIUGgK3m6I=",
   "Source": "PRN221_LeNam_BookStore",
   "BasePath": "_content/PRN221_LeNam_BookStore",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PRN221_LeNam_BookStore\\wwwroot",
       "Source": "PRN221_LeNam_BookStore",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PRN221_LeNam_BookStore.styles.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PRN221_LeNam_BookStore.styles.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "PRN221_LeNam_BookStore.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PRN221_LeNam_BookStore.styles.css"
+      "OriginalItemSpec": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PRN221_LeNam_BookStore.styles.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PRN221_LeNam_BookStore.bundle.scp.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PRN221_LeNam_BookStore.bundle.scp.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "PRN221_LeNam_BookStore.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PRN221_LeNam_BookStore.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PRN221_LeNam_BookStore.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\css\\site.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\favicon.ico",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\addtocartlogo.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\addtocartlogo.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/addtocartlogo.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\addtocartlogo.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\aesopbathu.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\aesopbathu.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/aesopbathu.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\aesopbathu.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\ảo-ma-canada.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\ảo-ma-canada.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/ảo-ma-canada.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ảo-ma-canada.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\banvekheuocxahoi.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\banvekheuocxahoi.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/banvekheuocxahoi.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banvekheuocxahoi.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\bebietnhieu.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\bebietnhieu.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/bebietnhieu.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bebietnhieu.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\bivo.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\bivo.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/bivo.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bivo.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\caibattaytrieudo.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\caibattaytrieudo.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/caibattaytrieudo.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\caibattaytrieudo.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\caibattaytrieudo_1.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\caibattaytrieudo_1.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/caibattaytrieudo_1.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\caibattaytrieudo_1.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\chualanhanhsang.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\chualanhanhsang.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/chualanhanhsang.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chualanhanhsang.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\contentdung.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\contentdung.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/contentdung.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\contentdung.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\cuxukhongiaotiepkheo.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\cuxukhongiaotiepkheo.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/cuxukhongiaotiepkheo.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cuxukhongiaotiepkheo.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\dacnhantam.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\dacnhantam.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/dacnhantam.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dacnhantam.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\doimat.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\doimat.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/doimat.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\doimat.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\hatgiongtamhon.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\hatgiongtamhon.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/hatgiongtamhon.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hatgiongtamhon.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\hoctuhanhdong.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\hoctuhanhdong.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/hoctuhanhdong.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hoctuhanhdong.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\leorakhoihangtho.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\leorakhoihangtho.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/leorakhoihangtho.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\leorakhoihangtho.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\logo.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\logo.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\motgoc.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\motgoc.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/motgoc.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\motgoc.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\muanangphai.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\muanangphai.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/muanangphai.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\muanangphai.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\nanhtrang.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\nanhtrang.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/nanhtrang.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\nanhtrang.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\nghethuatvanghenhan.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\nghethuatvanghenhan.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/nghethuatvanghenhan.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\nghethuatvanghenhan.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\nghithongsuot.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\nghithongsuot.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/nghithongsuot.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\nghithongsuot.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\nhagiakim.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\nhagiakim.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/nhagiakim.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\nhagiakim.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\nhungtamlongcaoca.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\nhungtamlongcaoca.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/nhungtamlongcaoca.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\nhungtamlongcaoca.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\onggiavabienca.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\onggiavabienca.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/onggiavabienca.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\onggiavabienca.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\Screenshot (10).png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\Screenshot (10).png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/Screenshot (10).png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Screenshot (10).png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\Screenshot (9).png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\Screenshot (9).png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/Screenshot (9).png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Screenshot (9).png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\Screenshot 2021-07-10 165953.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\Screenshot 2021-07-10 165953.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/Screenshot 2021-07-10 165953.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Screenshot 2021-07-10 165953.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\search-icon.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\search-icon.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/search-icon.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search-icon.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\slide1.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\slide1.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/slide1.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide1.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\slide2.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\slide2.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/slide2.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide2.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\slide3.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\slide3.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/slide3.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide3.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\slide4.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\slide4.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/slide4.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide4.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\tauphabang.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\tauphabang.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/tauphabang.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tauphabang.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\test",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\test",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/test",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\test"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\thinhvuongtaichinh.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\thinhvuongtaichinh.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/thinhvuongtaichinh.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thinhvuongtaichinh.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\thinhvuongtaichinh_1.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\thinhvuongtaichinh_1.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/thinhvuongtaichinh_1.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thinhvuongtaichinh_1.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\toiacvahinhphat.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\toiacvahinhphat.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/toiacvahinhphat.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\toiacvahinhphat.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\trituexuccam.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\trituexuccam.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/trituexuccam.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trituexuccam.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\trongchopmat.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\trongchopmat.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/trongchopmat.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trongchopmat.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\trumponhatrang.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\trumponhatrang.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/trumponhatrang.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trumponhatrang.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\tubongtoi.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\tubongtoi.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/tubongtoi.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tubongtoi.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\tuduyvetienbac.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\tuduyvetienbac.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/tuduyvetienbac.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tuduyvetienbac.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\tuoitre.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\tuoitre.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/tuoitre.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tuoitre.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\user.png",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\user.png",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/user.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user.png"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\vangoghthelife.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\vangoghthelife.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/vangoghthelife.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vangoghthelife.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\vapngalatruongthanh.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\vapngalatruongthanh.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/vapngalatruongthanh.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vapngalatruongthanh.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\images\\vongdoisanpham.jpg",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\vongdoisanpham.jpg",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "images/vongdoisanpham.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vongdoisanpham.jpg"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\js\\site.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PRN221_LeNam_BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
       "BasePath": "_content/PRN221_LeNam_BookStore",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

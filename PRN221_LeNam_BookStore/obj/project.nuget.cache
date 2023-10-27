@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHMBGS+oF1LyG2Gy1/VZWZtIIkalZfbcFhkrmpgtVEWV/V/QfPb0GpGDGZby4EQSz41whgVptnx6nNtKS9r1Lw==",
+  "dgSpecHash": "rWlAyqhc4sbuiqdUCPDncuC7kbdCgJYlF1hN/I/fbX4XqqN0d+CsD8J7fh6VE4rEaCWL2QSYJi8XQ5USqaylKA==",
   "success": true,
-  "projectFilePath": "D:\\Study\\SESSION 7\\PRN221\\PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore.csproj",
+  "projectFilePath": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenam\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\lenam\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
