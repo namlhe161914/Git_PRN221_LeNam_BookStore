@@ -3,8 +3,122 @@
 @{
     ViewData["Title"] = "Home page";
 }
-
+@*
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+</div> *@
+<head>
+    <title>Trang web phim đơn giản</title>
+    <style>
+
+        main {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        .left {
+            margin-top: 8px;
+            margin-left: 70px;
+            width: 20%;
+        }
+
+            .left ul {
+                list-style: none;
+            }
+
+                .left ul li a {
+                    text-decoration: none;
+                }
+
+
+        .right {
+            width: 80%;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-gap: 20px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+
+        /* Định dạng cho phần tử .movie-item */
+        .movie-item {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+            text-align: center;
+            background-color: #f9f9f9;
+            width: 200px; /* Đảm bảo rằng tất cả các thẻ div có cùng chiều rộng */
+            height: 535px; /* Đặt chiều cao tĩnh cho các thẻ div */
+        }
+
+            /* Định dạng cho hình ảnh */
+            .movie-item img {
+                max-width: 100%;
+                height: auto;
+                box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Hiệu ứng box-shadow */
+            }
+
+            /* Định dạng cho tiêu đề */
+            .movie-item h4 {
+                font-size: 1.5rem;
+                margin: 10px 0;
+                display: -webkit-box;
+                -webkit-line-clamp: 3; /* Số dòng tối đa hiển thị */
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+                text-overflow: ellipsis; /* Hiển thị dấu "..." nếu quá dài */
+            }
+
+        /* Định dạng cho giá */
+        #one {
+            font-size: 1rem;
+        }
+
+    </style>
+</head>
+<body>
+
+    <main>
+        <div class="left">
+            <h1>Thể loại</h1>
+            <ul class="list-unstyled">
+                <li>
+                    <a href="/Index">Tất cả</a>
+                </li>
+                @foreach (var item in Model.CategoryHe161914)
+                {
+                    <li>
+                        <a href="/Index?cid=@item.Cid">@Html.DisplayFor(modelItem => item.Cname)</a>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <div class="right">
+
+
+            @foreach (var item in Model.BookHe161914)
+            {
+
+                <a href="~/Books/Details?id=@item.Bid" class="text-decoration-none" style="color: black">
+                    <div class="movie-item">
+                        <div>
+
+                            <img src="@Html.DisplayFor(modelItem => item.Image)" alt="girl" />
+                            <h4>@Html.DisplayFor(modelItem => item.Bname)</h4>
+                            <br>
+                            <p id="one">Price : @Html.DisplayFor(modelItem => item.Price) </p>
+                            <br>
+                            <input type="button" value="Thêm vào giỏ hàng" />
+                        </div>
+                    </div>
+                </a>
+            }
+
+
+        </div>
+    </main>
+</body>

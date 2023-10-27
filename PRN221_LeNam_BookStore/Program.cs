@@ -11,6 +11,8 @@ builder.Services.AddSession(opt =>
     opt.IdleTimeout = TimeSpan.FromMinutes(10);
 });
 
+builder.Services.AddScoped<SessionFilterAttribute>();
+
 builder.Services.AddDbContext<Prj301Se1650Context>(options =>
      options.UseSqlServer("name=ConnectionStrings:MyConStr"));
 

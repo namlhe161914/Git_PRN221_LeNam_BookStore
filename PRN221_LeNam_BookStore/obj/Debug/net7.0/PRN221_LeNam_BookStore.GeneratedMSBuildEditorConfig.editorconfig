@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Study\SESSION 7\PRN221\Git_PRN221_LeNam_BookStore\PRN221_LeNam_BookStore
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Accounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Accounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +56,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,8 +92,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Publisher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Publisher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Publisher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Publisher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Publisher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/SignOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbk91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/_ViewImports.cshtml]

@@ -25,14 +25,14 @@ namespace PRN221_LeNam_BookStore.Pages.Login
         public IActionResult OnPost(Person pn)
         {
             string result = "";
-            //if (HttpContext.Session.GetString("account") != null)
-            //{
-            //    Page();
-            //}
-            //else if (HttpContext.Session.GetString("account2") != null)
-            //{
-            //    RedirectToPage("/Book");
-            //}
+            if (HttpContext.Session.GetString("account") != null)
+            {
+                Page();
+            }
+            else if (HttpContext.Session.GetString("account2") != null)
+            {
+                RedirectToPage("/Index");
+            }
 
             string err = "";
 
@@ -66,7 +66,7 @@ namespace PRN221_LeNam_BookStore.Pages.Login
                         if (person.Type == 1)
                         {
                             HttpContext.Session.SetString("account2", JsonSerializer.Serialize(person));
-                            result = "/Books";
+                            result = "/Index";
                         }
                         else
                         {
@@ -81,5 +81,6 @@ namespace PRN221_LeNam_BookStore.Pages.Login
             return Redirect(result);
 
         }
+
     }
 }

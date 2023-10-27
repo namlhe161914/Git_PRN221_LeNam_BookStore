@@ -12,6 +12,7 @@ namespace PRN221_LeNam_BookStore.Pages.Books
 {
     public class DetailsModel : PageModel
     {
+
         private readonly PRN221_LeNam_BookStore.Models.Prj301Se1650Context _context;
 
         public DetailsModel(PRN221_LeNam_BookStore.Models.Prj301Se1650Context context)
@@ -23,6 +24,7 @@ namespace PRN221_LeNam_BookStore.Pages.Books
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
+
             if (id == null || _context.BookHe161914s == null)
             {
                 return NotFound();

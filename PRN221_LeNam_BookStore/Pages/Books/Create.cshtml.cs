@@ -9,7 +9,9 @@ using PRN221_LeNam_BookStore.Models;
 
 namespace PRN221_LeNam_BookStore.Pages.Books
 {
-    public class CreateModel : PageModel
+    [TypeFilter(typeof(SessionFilterAttribute))]
+
+    public class CreateModel : PageModel 
     {
         private readonly Prj301Se1650Context _context;
         public CreateModel(Prj301Se1650Context context)
@@ -30,6 +32,7 @@ namespace PRN221_LeNam_BookStore.Pages.Books
         [BindProperty]
         public IFormFile file { get; set; } = default!;
         
+
 
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()

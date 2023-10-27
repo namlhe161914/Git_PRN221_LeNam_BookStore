@@ -46,3 +46,44 @@ button.accept-policy[b-4qkvgif20b] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+
+.nav ul[b-4qkvgif20b] {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.nav .nav-item[b-4qkvgif20b] {
+    margin: 0 10px;
+    position: relative;
+}
+
+.nav .dropdown-content[b-4qkvgif20b] {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+.nav .nav-item:hover .dropdown-content[b-4qkvgif20b] {
+    display: block;
+}
+
+.nav .nav-item .dropdown-content li[b-4qkvgif20b] {
+    padding: 5px;
+}
+
+    .nav .nav-item .dropdown-content li:hover[b-4qkvgif20b] {
+        background-color: #ccc;
+    }
+
+.nav .nav-item a[b-4qkvgif20b] {
+    text-decoration: none;
+}
+
+    .nav .nav-item a:hover[b-4qkvgif20b] {
+        color: blue;
+    }

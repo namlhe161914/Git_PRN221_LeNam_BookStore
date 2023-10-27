@@ -46,3 +46,44 @@ button.accept-policy {
   white-space: nowrap;
   line-height: 60px;
 }
+
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.nav .nav-item {
+    margin: 0 10px;
+    position: relative;
+}
+
+.nav .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+.nav .nav-item:hover .dropdown-content {
+    display: block;
+}
+
+.nav .nav-item .dropdown-content li {
+    padding: 5px;
+}
+
+    .nav .nav-item .dropdown-content li:hover {
+        background-color: #ccc;
+    }
+
+.nav .nav-item a {
+    text-decoration: none;
+}
+
+    .nav .nav-item a:hover {
+        color: blue;
+    }

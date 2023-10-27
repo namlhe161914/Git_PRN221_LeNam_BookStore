@@ -1,0 +1,36 @@
+﻿@page
+@model PRN221_LeNam_BookStore.Pages.Publisher.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PublisherHe161914[0].Pname)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.PublisherHe161914) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pname)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Pid">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Pid">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Pid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
