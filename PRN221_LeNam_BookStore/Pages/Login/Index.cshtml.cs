@@ -27,11 +27,11 @@ namespace PRN221_LeNam_BookStore.Pages.Login
             string result = "";
             if (HttpContext.Session.GetString("account") != null)
             {
-                Page();
+                return RedirectToPage("/Index");
             }
             else if (HttpContext.Session.GetString("account2") != null)
             {
-                RedirectToPage("/Index");
+                return RedirectToPage("/Index");
             }
 
             string err = "";

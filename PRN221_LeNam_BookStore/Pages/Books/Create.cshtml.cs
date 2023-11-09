@@ -37,6 +37,7 @@ namespace PRN221_LeNam_BookStore.Pages.Books
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()
         {
+
           if ( _context.BookHe161914s == null || BookHe161914 == null)
             {
                 return Page();

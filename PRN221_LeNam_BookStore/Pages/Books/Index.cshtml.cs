@@ -47,7 +47,7 @@ namespace PRN221_LeNam_BookStore.Pages.Books
             {
                 CurrentSort = sortOrder;
                 NameSort = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
-                PriceSort = sortOrder == "price" ? "price_desc" : "";
+                PriceSort = String.IsNullOrEmpty(sortOrder) ? "price" : sortOrder == "price" ? "price_desc" : "price";
 
                 if (searchString != null)
                 {

@@ -4,6 +4,9 @@
 @{
     ViewData["Title"] = "Index";
 }
+@{
+    ViewData["Books"] = Model.BookHe161914;
+}
 
 <h1>Index</h1>
 
@@ -44,11 +47,7 @@
                 @Html.DisplayNameFor(model => model.BookHe161914[0].Describe)
             </th>
             <th>
-
-                <a asp-page="./Index" asp-route-sortOrder="@Model.PriceSort"
-                   asp-route-currentFilter="@Model.CurrentFilter">
-                    @Html.DisplayNameFor(model => model.BookHe161914[0].Price)
-                </a>
+                @Html.DisplayNameFor(model => model.BookHe161914[0].Price)
             </th>
             <th>
                 @*@Html.DisplayNameFor(model => model.BookHe161914[0].CidNavigation) *@
