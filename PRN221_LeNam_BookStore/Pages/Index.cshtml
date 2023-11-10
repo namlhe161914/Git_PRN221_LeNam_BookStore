@@ -102,21 +102,59 @@
             @foreach (var item in Model.BookHe161914)
             {
 
-                <a href="~/Books/Details?id=@item.Bid" class="text-decoration-none" style="color: black">
-                    <div class="movie-item">
+                <div class="movie-item">
+                    <a href="~/Books/Details?id=@item.Bid" class="text-decoration-none" style="color: black">
                         <div>
-
                             <img src="@Html.DisplayFor(modelItem => item.Image)" alt="girl" />
                             <h4>@Html.DisplayFor(modelItem => item.Bname)</h4>
                             <br>
                             <p id="one">Price : @Html.DisplayFor(modelItem => item.Price) </p>
                             <br>
-                            <input type="button" value="Thêm vào giỏ hàng" />
                         </div>
-                    </div>
-                </a>
+                    </a>
+                    <form id="AddToCart" method="post">
+                        <input id="bookId" asp-for="@item.Bid"/>
+                        <button type="submit" class="btn btn-primary">Add To Cart</button>
+                    </form>
+                </div>
+
+
             }
 
         </div>
     </main>
 </body>
+
+@* <script>
+    // Hàm gửi yêu cầu HTTP
+    function sendRequest() {
+        // Lấy toàn bộ dữ liệu trong form
+        const formData = new FormData(document.getElementById("AddToCart"));
+
+        // Tạo một đối tượng Request
+        const request = new Request("http://localhost:5163/Carts/AddToCart", {
+            method: "POST",
+            body: formData
+        });
+
+        // Gửi yêu cầu
+        fetch(request)
+            .then(response => {
+                // Xử lý phản hồi
+                if (response.status === 200) {
+                    // Gửi thành công
+                    alert("Email đã được gửi thành công!");
+                } else {
+                    // Gửi thất bại
+                    alert("Có lỗi xảy ra khi gửi email!");
+                }
+            })
+            .catch(error => {
+                // Xử lý lỗi
+                console.log(error);
+            });
+    }
+
+    // Thêm sự kiện click vào nút submit
+    document.getElementById("AddToCart").addEventListener("submit", sendRequest);
+</script> *@

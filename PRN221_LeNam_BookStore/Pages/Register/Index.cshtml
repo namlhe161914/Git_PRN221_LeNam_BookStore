@@ -1,23 +1,38 @@
 ﻿@page
 @model PRN221_LeNam_BookStore.Pages.Register.IndexModel
+
+
 @{
 }
+
 
 
 <div class="d-flex justify-content-center mt-5">
     <div class="bg-info bg-opacity-25 w-50 p-4 rounded-3 pb-5">
         <h4 class="text-center mb-3">Đăng kí tài khoản</h4>
-        <form method="post" asp-action="Home">
-            <input class="form-control" type="email" placeholder="Email"  />
-            <p>@ViewData["Error1"]</p>
-            <p>@ViewData["Error"]</p>
-            <input class="form-control mt-4" type="password" placeholder="Password *"  />
-            <p>@ViewData["Error2"]</p>
-            <input class="form-control mt-4" type="text" placeholder="Fullname"  />
-            <p>@ViewData["Error4"]</p>
-            <span>Giới tính</span> <input type="radio"  value="Nam" />Nam
+        <label for="to">Mail đăng ký</label>
+        <form id="sendMail" method="post">
+            <div class="form-group" style="display: flex">
 
-            <input type="radio"  value="Nữ" />Nữ
+                <input type="email" class="form-control" id="to" name="to" placeholder="Mail" asp-for="@SendMailModel.MailReceive" />
+                <button type="submit" class="btn btn-primary" style="margin-left: 2px">Gửi</button>
+            </div>
+        </form>
+        <form method="post">
+            <input class="form-control mt-4" type="number" placeholder="Code" name="Code" id="Code" />
+            <p>@ViewData["Error5"]</p>
+
+            <input class="form-control" type="email" placeholder="Email" id="emailCopy" asp-for="Person.Email" value="@SendMailModel.MailReceive" hidden  />
+            <p>@ViewData["Error"]</p>
+            <input class="form-control mt-4" type="password" placeholder="Password *" asp-for="Person.Password" />
+            <p>@ViewData["Error2"]</p>
+            <input class="form-control mt-4" type="text" placeholder="Fullname" asp-for="Person.Fullname" />
+            <p>@ViewData["Error4"]</p>
+
+
+            <span>Giới tính</span> <input type="radio" value="Nam" asp-for="Person.Gender" />Nam
+
+            <input type="radio" value="Nữ" asp-for="Person.Gender" />Nữ
             <p>@ViewData["Error3"]</p>
             <p class="text-secondary">
                 Nếu tài khoản đã tồn tại.
@@ -33,3 +48,44 @@
         <hr />
     </div>
 </div>
+<script>
+    // Hàm gửi yêu cầu HTTP
+    function sendRequest() {
+        // Lấy toàn bộ dữ liệu trong form
+        const formData = new FormData(document.getElementById("sendMail"));
+
+        // Tạo một đối tượng Request
+        const request = new Request("http://localhost:5163/Register/SendMail", {
+            method: "POST",
+            body: formData
+        });
+
+        // Gửi yêu cầu
+        fetch(request)
+            .then(response => {
+                // Xử lý phản hồi
+                if (response.status === 200) {
+                    // Gửi thành công
+                    alert("Email đã được gửi thành công!");
+                } else {
+                    // Gửi thất bại
+                    alert("Có lỗi xảy ra khi gửi email!");
+                }
+            })
+            .catch(error => {
+                // Xử lý lỗi
+                console.log(error);
+            });
+    }
+
+    // Thêm sự kiện click vào nút submit
+    document.getElementById("sendMail").addEventListener("submit", sendRequest);
+</script>
+
+<script>
+    var input = document.getElementById('to');
+    var emailCopy = document.getElementById('emailCopy');
+    input.addEventListener('change', function () {
+        emailCopy.value = input.value;
+    });
+</script>

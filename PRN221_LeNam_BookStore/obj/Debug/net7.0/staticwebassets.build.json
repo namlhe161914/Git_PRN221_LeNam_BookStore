@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lGJymogKa9aAwLjBoVcJ2CE27lldDXABRXIUGgK3m6I=",
+  "Hash": "NpLJeqCbOJhDoQhGNP8wsj1LJRX+G9VD7PWERnOOyGg=",
   "Source": "PRN221_LeNam_BookStore",
   "BasePath": "_content/PRN221_LeNam_BookStore",
   "Mode": "Default",
@@ -508,6 +508,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\onggiavabienca.jpg"
+    },
+    {
+      "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\Screenshot (1).png",
+      "SourceId": "PRN221_LeNam_BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\",
+      "BasePath": "_content/PRN221_LeNam_BookStore",
+      "RelativePath": "images/Screenshot (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot (1).png"
     },
     {
       "Identity": "D:\\Study\\SESSION 7\\PRN221\\Git_PRN221_LeNam_BookStore\\PRN221_LeNam_BookStore\\wwwroot\\images\\Screenshot (10).png",

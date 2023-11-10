@@ -56,6 +56,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Carts/AddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydHNcQWRkVG9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Carts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -114,6 +122,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Register/SendMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJcU2VuZE1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Shared/_ValidationScriptsPartial.cshtml]
