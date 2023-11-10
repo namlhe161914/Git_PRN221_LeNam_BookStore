@@ -92,8 +92,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Login/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Login/SendMailForget.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cU2VuZE1haWxGb3JnZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Study/SESSION 7/PRN221/Git_PRN221_LeNam_BookStore/PRN221_LeNam_BookStore/Pages/Privacy.cshtml]
