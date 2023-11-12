@@ -41,22 +41,24 @@ namespace PRN221_LeNam_BookStore.Pages.Categories
             return Page();
         }
 
-        public async Task<IActionResult> OnPostAsync(string id)
-        {
-            if (id == null || _context.CategoryHe161914s == null)
+            public async Task<IActionResult> OnPostAsync(string id)
             {
-                return NotFound();
-            }
-            var categoryhe161914 = await _context.CategoryHe161914s.FindAsync(id);
+                if (id == null || _context.CategoryHe161914s == null)
+                {
+                    return NotFound();
+                }
+                var categoryhe161914 = await _context.CategoryHe161914s.FindAsync(id);
 
-            if (categoryhe161914 != null)
-            {
-                CategoryHe161914 = categoryhe161914;
-                _context.CategoryHe161914s.Remove(CategoryHe161914);
-                await _context.SaveChangesAsync();
-            }
+                var bookhe161914 = await _context.BookHe161914s.Where(x => x.Cid == id).ToListAsync();
 
-            return RedirectToPage("./Index");
-        }
+                if (categoryhe161914 != null)
+                {
+                    _context.BookHe161914s.RemoveRange(bookhe161914);
+                    _context.CategoryHe161914s.Remove(categoryhe161914);
+                    await _context.SaveChangesAsync();
+                }
+
+                    return RedirectToPage("./Index");
+            }
     }
 }

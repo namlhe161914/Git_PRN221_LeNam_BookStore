@@ -63,9 +63,20 @@ namespace PRN221_LeNam_BookStore.Pages.Books
             {
                 BookHe161914.Image = "images\\" + file.FileName; 
             }
+            var book = _context.BookHe161914s.SingleOrDefault(b => b.Bname == BookHe161914.Bname);
+            if(book == null)
+            {
+                _context.BookHe161914s.Add(BookHe161914);
+                await _context.SaveChangesAsync();
+                return RedirectToPage("./Index");
+            }
+            else
+            {
+                ViewData["Error10"] = "Sach khong duoc trung ten";
+                return Page();
+            }
 
-            _context.BookHe161914s.Add(BookHe161914);
-            await _context.SaveChangesAsync();
+
 
             return RedirectToPage("./Index");
         }
